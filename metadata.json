@@ -1,0 +1,6 @@
+{
+  "name": "Miss Raja - Mode & Élégance",
+  "description": "Premium modern women's fashion and haute couture boutique based in Batna, Algeria, featuring 58-Wilaya delivery, responsive catalog, and real-time inventory and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
